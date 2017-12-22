@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "368686279989",
+    "firebase_url": "https://memestream-fc689.firebaseio.com",
+    "project_id": "memestream-fc689",
+    "storage_bucket": "memestream-fc689.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368686279989:android:d2a58c5e418f09f7",
+        "android_client_info": {
+          "package_name": "edu.unc.web.mobile.dreamist.memestream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368686279989-a3as52pn08a8c8hmnnem16idr1vu2f36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.unc.web.mobile.dreamist.memestream",
+            "certificate_hash": "e38d6f47725b09bdaae38328c19da32828be121c"
+          }
+        },
+        {
+          "client_id": "368686279989-oniuf16tntq4443f9fpee4gbj87ec84e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQPmIaAa4qx8OV6BN8DHbRxXVAVNPaRAI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368686279989-oniuf16tntq4443f9fpee4gbj87ec84e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
